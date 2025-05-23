@@ -65,7 +65,3 @@ python NIDS.py -t <testset.csv> -c <classifier> -t <task> [-m <model.pkl>]
 - **Aadi Bisht:** Correlation analysis, MLP classifier, hyperparameter tuning
 
 All members contributed to shared infrastructure and reporting.
-
-## License
-
-MIT License
